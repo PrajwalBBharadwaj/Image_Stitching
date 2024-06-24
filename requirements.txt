@@ -1,0 +1,4 @@
+opencv-python
+numpy
+matplotlib
+gradescope-utils>=0.3.1
